@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @catz1992
+- 👀 I’m interested in ui and ux design...
+- 🌱 I’m currently learning html, css basics; design; wordpress etc ...
+- 📫 How to reach me catiabarbosa1992@hotmail.com...
+
+<!---
+catz1992/catz1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
